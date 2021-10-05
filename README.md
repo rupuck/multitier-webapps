@@ -4,7 +4,7 @@ This repository created as a technical test for DevOps position at **Awal Mula**
 The Task :
 > 1. Design an architecture for Multi-tier web apps with docker or kubernetes.  
 > 2. Build and Deploy the application in local environment. 
-## About the Test
+## About the Project
 For this test, I will try to create multi-tier web apps using php with laravel framework that have connection with MySql database and Redis. The web server will be handled by Nginx.
 ## Technical Specification
 
