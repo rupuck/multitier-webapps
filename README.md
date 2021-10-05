@@ -23,7 +23,7 @@ The application architecture will be 3-tier web apps but Laravel will handle bot
 2. Web Server - Nginx:alpine
 3. DB - Mysql v.5.7.22
 4. Redis v.6.2
-
+```
 docker/
 ├── App
 │   ├── Laravel/
@@ -36,6 +36,8 @@ docker/
 │   ├── MySQL/
 ├── Redis
 └── docker-compose.yml
+```
+
  **List Container**
 ![Docker Image](https://i.imgur.com/qUX2n1F_d.webp?maxwidth=760&fidelity=grand)
  **Start Services**
