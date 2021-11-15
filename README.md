@@ -1,4 +1,4 @@
-# Awal Mula - DevOps Technical Test
+# DevOps Technical Test
 
 This repository created as a technical test for DevOps position at **Awal Mula**. 
 The Task :
