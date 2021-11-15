@@ -1,6 +1,6 @@
 # DevOps Technical Test
 
-This repository created as a technical test for DevOps position at **Awal Mula**. 
+This repository created as a technical test for DevOps position
 The Task :
 > 1. Design an architecture for Multi-tier web apps with docker or kubernetes.  
 > 2. Build and Deploy the application in local environment. 
